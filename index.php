@@ -90,7 +90,7 @@
             <div class="row rmit-product-section">
               <?php
               $link = mysqli_connect(
-                  "34.239.56.161",
+                  "localhost",
                   "db_admin",
                   "rmit_password",
                   "rmit_store_db"
